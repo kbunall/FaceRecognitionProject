@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-FaceRecognitionProject",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-AttendanceProject",
+      "appliesTo": "venv/AttendanceProject.py",
+      "type": "launch"
+    }
+  ]
+}
